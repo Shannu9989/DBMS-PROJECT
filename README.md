@@ -14,4 +14,4 @@ we have used mysql as database software
 Ameesha shaik I have done the UI part 
 Zaheena has done swaggers and mysql part
 Subhan has done the backend part
-We have uploaded the youtube link and paste in the black board
+We have uploaded the youtube link and mentioned above.
